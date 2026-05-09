@@ -86,5 +86,15 @@ The dashboard includes:
 
 Users can enter student details from the sidebar, and the trained machine learning model predicts whether the student is likely to get placed.
 
+## 🚀 Live Deployment
+
+The project has been successfully deployed as a live interactive web application using Streamlit.
+
+The live dashboard allows users to:
+- Analyze placement trends
+- Explore visual analytics
+- Perform placement predictions using Machine Learning
+
+🔗 Live Application: https://campus-placement-prediction-analytics-dashboard-byhimanshi.streamlit.app/
 ---
 
